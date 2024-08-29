@@ -3,6 +3,9 @@
 ## Overview
 **EcoWeb Design Guide** is a resource for creating environmentally sustainable websites using Tailwind CSS. It showcases eco-friendly design principles, color schemes, and performance optimization techniques to reduce the carbon footprint of websites. Additionally, the guide provides interactive features to enhance user experience, such as the ability to easily copy color codes to the clipboard.
 
+![image](https://github.com/user-attachments/assets/8c04452c-2356-46de-9caa-c33d5591c698)
+
+
 ## Features
 - **Eco-Friendly Color Palettes**: Examples of earth tones, cool pastels, and monochrome designs. Users can click on any color to instantly copy its hex code to the clipboard.
 - **Performance Optimization Tips**: Guidance on reducing image sizes, optimizing fonts, and minimizing JavaScript for faster, more efficient websites.
